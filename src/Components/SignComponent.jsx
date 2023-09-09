@@ -1,5 +1,6 @@
 import Illustration from "../assets/images/illustration-sign-up-mobile.svg"
 
+
 export default function SignComponent() {
   return (
     <div className="bg-white sm:bg-pale-navy h-full flex flex-col">
